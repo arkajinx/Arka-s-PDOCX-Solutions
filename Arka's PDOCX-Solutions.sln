@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arka's PDOCX-Solutions", "Arka's PDOCX-Solutions\Arka's PDOCX-Solutions.csproj", "{A2C6B515-2AE9-41E6-AF91-27F44797244D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2C6B515-2AE9-41E6-AF91-27F44797244D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2C6B515-2AE9-41E6-AF91-27F44797244D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2C6B515-2AE9-41E6-AF91-27F44797244D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2C6B515-2AE9-41E6-AF91-27F44797244D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D032C80C-7DDD-42A8-B7FF-1925CB106125}
+	EndGlobalSection
+EndGlobal
